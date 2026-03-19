@@ -1,0 +1,8 @@
+Document loaders
+Text splitters
+vector stories
+retrivers
+
+what is RAG?
+querry- llm - response 
+finetuning: pretrain llm and cutomize it for your domain
