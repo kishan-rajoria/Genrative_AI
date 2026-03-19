@@ -9,4 +9,12 @@ with structure output (typed dic: no validation of int and dic, pydantic, json s
 
 pydantic: data validation and data parsing lib for python and ensure data you work with is correct, structured, tpye -safe
 
-basic, how to set default value
+------ basic, how to set default value, optional fields, coerce, validation, custom discription, annoatation, expression, 
+
+schema{
+    tittle
+    description
+    typed
+    properties
+    required
+}
