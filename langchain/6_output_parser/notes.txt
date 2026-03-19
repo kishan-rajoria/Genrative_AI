@@ -1,0 +1,7 @@
+output parsers: help to convert raw llm response into structured formate like json, csv, pydantic models and more/ They ensure consistency, validation and ease of use to application
+
+this can use in both cases structured and unstructured.
+to remove metadata
+
+from json parser you cant give schema and got unstructured output
+
