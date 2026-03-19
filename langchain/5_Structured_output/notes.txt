@@ -1,0 +1,12 @@
+LLM structure output to be get in well dfined fromate. Below are use case:
+
+- data extraction
+- API building
+- Agents: like amazon production reviews consise and summaries
+
+without structure output (output formating, output parser)
+with structure output (typed dic: no validation of int and dic, pydantic, json schema)
+
+pydantic: data validation and data parsing lib for python and ensure data you work with is correct, structured, tpye -safe
+
+basic, how to set default value
