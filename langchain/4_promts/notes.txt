@@ -1,0 +1,4 @@
+langchain have system message, human message, AI message
+
+Human message is user given
+AI message is AI given message
