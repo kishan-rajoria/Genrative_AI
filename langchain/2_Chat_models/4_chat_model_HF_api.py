@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-llm = HuggingFaceEndpoint(repo_id =  , task="text generation")
+llm = HuggingFaceEndpoint(repo_id = '<REPO_ID>' , task="text generation")
 
 model = ChatHuggingFace(llm=llm)
 
